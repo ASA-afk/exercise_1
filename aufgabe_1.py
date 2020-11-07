@@ -1,7 +1,7 @@
 ## Aufgabe 1.1  ##
-x=4
-y=4
-z=7
+x=1
+y=2
+z=3
 
 arithmetischesMittel=(x+y+z)/2
 print("Arithmetische Mittel:",arithmetischesMittel)
